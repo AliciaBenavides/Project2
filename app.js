@@ -28,7 +28,7 @@ let data = [
   const info = document.querySelector('#info');
   
   let details = data.map(function(item) {
-    return '<div>' + item.name + ' ' + 'is ' + item.age + ' years old' + '</div>';
+    return '<div>' + item.name + ' ' + 'is ' + item.age + ' at NVC' + '</div>';
   });
   
   info.innerHTML = details.join('\n');
