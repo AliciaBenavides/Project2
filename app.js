@@ -1,27 +1,27 @@
 let data = [
     {
-      name: 'Mateo',
-      age: '30'
+      name: 'Design',
+      age: '3 Credits'
     },
     {
-      name: 'Sarah',
-      age: '32'
+      name: 'Photography',
+      age: '3 Credits'
     },
     {
-      name: 'John',
-      age: '20'
+      name: 'Digital Media Programming',
+      age: '3 Credits'
     },
     {
-      name: 'Tim',
-      age: '27'
+      name: 'Intro to Digital Media',
+      age: '3 Credits'
     },
     {
-      name: 'Sam',
-      age: '22'
+      name: 'Interface Design',
+      age: '3 Credits'
     },
     {
-      name: 'Joey',
-      age: '34'
+      name: 'Digital Video',
+      age: '3 Credits'
     }
   ];
   
